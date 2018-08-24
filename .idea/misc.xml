@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="JUnitGeneratorProjectSettings">
     <option name="outputFilePattern" value="${SOURCEPATH}/../../test/java/${PACKAGE}/${FILENAME}" />
     <option name="selectedTemplateKey" value="JUnit 4" />
@@ -14,16 +15,12 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/SwordtoOffer/pom.xml" />
+        <option value="$PROJECT_DIR$/SwordtoOffer1/pom.xml" />
+        <option value="$PROJECT_DIR$/SwordtoOffer3/pom.xml" />
       </list>
     </option>
-    <option name="ignoredFiles">
-      <set>
-        <option value="$PROJECT_DIR$/SwordtoOffer/SwordtoOffer1/pom.xml" />
-        <option value="$PROJECT_DIR$/SwordtoOffer/SwordtoOffer2/pom.xml" />
-      </set>
-    </option>
   </component>
-  <component name="ProjectRootManager">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
   <component name="RemoteRepositoriesConfiguration">
