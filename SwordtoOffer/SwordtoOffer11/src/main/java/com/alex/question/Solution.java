@@ -2,7 +2,7 @@ package com.alex.question;
 
 public class Solution {
 
-    public double Power(double base, int exponent) {
+    public double power(double base, int exponent) {
         double res = 0;
         if (equal(base,0)) {
             return 0;
@@ -18,7 +18,7 @@ public class Solution {
         return res;
     }
 
-    public double mutiply(double base, int e) {
+    private double mutiply(double base, int e) {
         double sum = 1;
         for (int i = 0; i < e; i++) {
             sum = sum * base;
@@ -27,7 +27,7 @@ public class Solution {
     }
 
     // 不能用==比较两浮点型的数值
-    public boolean equal(double a, double b) {
+    private boolean equal(double a, double b) {
         if (a - b < 0.000001 && a - b > -0.000001) {
             return true;
         }

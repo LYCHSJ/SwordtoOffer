@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="SwordtoOffer10" />
+        <module name="SwordtoOffer11" />
+        <module name="SwordtoOffer12" />
+        <module name="SwordtoOffer2" />
+        <module name="SwordtoOffer3" />
+        <module name="SwordtoOffer4" />
+        <module name="SwordtoOffer5" />
+        <module name="SwordtoOffer6" />
+        <module name="SwordtoOffer7" />
+        <module name="SwordtoOffer8" />
+        <module name="SwordtoOffer9" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

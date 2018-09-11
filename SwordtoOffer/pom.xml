@@ -9,7 +9,6 @@
   <packaging>pom</packaging>
   <version>1.0-SNAPSHOT</version>
   <modules>
-    <module>SwordtoOffer1</module>
     <module>SwordtoOffer2</module>
     <module>SwordtoOffer3</module>
     <module>SwordtoOffer4</module>
@@ -20,6 +19,7 @@
       <module>SwordtoOffer9</module>
       <module>SwordtoOffer10</module>
     <module>SwordtoOffer11</module>
+    <module>SwordtoOffer12</module>
   </modules>
 
   <name>SwordtoOffer</name>
