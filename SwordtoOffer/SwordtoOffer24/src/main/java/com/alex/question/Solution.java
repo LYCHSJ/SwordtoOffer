@@ -6,15 +6,6 @@ import java.util.Arrays;
 
 public class Solution {
 
-    private static class BinaryTreeNode{
-        int value;
-        BinaryTreeNode left;
-        BinaryTreeNode right;
-        BinaryTreeNode(int x){
-            this.value=x;
-        }
-    }
-
     public boolean VerifySquenceOfBST(int sequence[]){
         if(sequence == null){
             return false;
