@@ -6,7 +6,7 @@ package com.alex.question;
  */
 public class DoubleCheckSingleton {
 
-    private static DoubleCheckSingleton singleton;
+    private static volatile DoubleCheckSingleton singleton;
 
     public synchronized static DoubleCheckSingleton getInstance(){
         if(singleton ==null){
