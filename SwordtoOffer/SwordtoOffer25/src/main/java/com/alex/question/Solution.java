@@ -1,6 +1,5 @@
 package com.alex.question;
 
-import javax.swing.tree.TreeNode;
 import java.util.ArrayList;
 
 public class Solution {
