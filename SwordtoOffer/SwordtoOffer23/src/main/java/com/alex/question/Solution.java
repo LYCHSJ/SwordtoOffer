@@ -34,7 +34,6 @@ public class Solution {
                 queue.addLast(node.right);
             }
         }
-
         return list;
     }
 }
